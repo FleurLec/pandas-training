@@ -14,7 +14,9 @@ not : ~
 
 ## 3. Index
 
-`df.index` 
+`df.index` give the list of indexes.  
+Indexes cannot be changed. 
+
 
 ## 4. Pandas functions
 
